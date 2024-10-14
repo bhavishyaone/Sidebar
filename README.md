@@ -99,7 +99,7 @@ We welcome contributions of all skill levels! Follow these steps to get started:
 5. **Submit a Pull Request** 🔄: Go to your repository on GitHub, click "Compare & Pull Request," and submit your changes for review.
 
 ### **Contribution Guidelines** 📜🤗
-- Check the [Issues](link-to-your-issues) for open tasks or ideas. 💡
+- Check the [Issues](https://github.com/Abhilash107/Sidebar/issues) for open tasks or ideas. 💡
 - If you have a new feature in mind, feel free to propose it! 💭
 - Please document your changes clearly to help future developers. 📝
 
@@ -121,7 +121,7 @@ Have a cool idea? Here are some enhancement ideas you can work on:
 
 ## 📝 **Code of Conduct**
 
-By participating in this project, you agree to abide by the [Contributor Covenant Code of Conduct](link-to-code-of-conduct). We expect all contributors to treat each other with respect and to follow these guidelines.
+By participating in this project, you agree to abide by the Contributor Covenant Code of Conduct. We expect all contributors to treat each other with respect and to follow these guidelines.
 
 ---
 
@@ -141,4 +141,5 @@ If you find this project helpful, don’t forget to **star** ⭐ the repository!
 
 ## 👋 **Let's Connect**
 
-Feel free to reach out with any questions or suggestions! You can find me on [LinkedIn](your-linkedin-profile) or follow me on [Twitter](your-twitter-handle). Happy coding! 🎉
+Feel free to reach out with any questions or suggestions! You can find me on [LinkedIn](https://linkedin.com/in/abhilash107) or follow me on [Twitter](https://x.com/@AbhilashMi73503) [Instagram](https://instagram.com/me_nobody107).
+ Happy coding! 🎉
